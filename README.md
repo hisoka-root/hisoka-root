@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hisokaroot" target="blank"><img src="https://img.shields.io/twitter/follow/hisokaroot?logo=twitter&style=for-the-badge" alt="hisokaroot" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/hisoka-root/rsstoat](https://github.com/hisoka-root/open-collective-mybb)
+- 🔭 I’m currently working on [https://github.com/hisoka-root/rsstoat](https://github.com/hisoka-root/rsstoat)
 
 - 👨‍💻 All of my projects are available at [https://hisoka.lol](https://hisoka.lol)
 
