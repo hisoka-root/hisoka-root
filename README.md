@@ -1,25 +1,96 @@
 <h1 align="center">Hi 👋, I'm hisoka</h1>
 <h3 align="center">A passionate software developer from the United States.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hisoka-root&label=Profile%20views&color=0e75b6&style=flat" alt="hisoka-root" /> </p>
-
-<p align="left"> <a href="https://twitter.com/hisokaroot" target="blank"><img src="https://img.shields.io/twitter/follow/hisokaroot?logo=twitter&style=for-the-badge" alt="hisokaroot" /></a> </p>
-
-- 🔭 I’m currently working on [https://github.com/hisoka-root/rsstoat](https://github.com/hisoka-root/rsstoat)
-
-- 👨‍💻 All of my projects are available at [https://hisoka.lol](https://hisoka.lol)
-
-- 📝 I regularly write articles on [https://substack.com/@ilovehisoka](https://substack.com/@ilovehisoka)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hisokaroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hisokaroot" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hisoka-root&label=Profile%20Views&color=0e75b6&style=flat" alt="hisoka-root" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://twitter.com/hisokaroot" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/hisokaroot?logo=x&style=for-the-badge" alt="hisokaroot" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hisoka.root"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hisoka.root" /></a><a href="https://ko-fi.com/hisokaroot"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hisokaroot" /></a></p><br><br>
+## 🚀 Current Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hisoka-root&show_icons=true&locale=en" alt="hisoka-root" /></p>
+- 🔭 Currently working on **rsStoat**
+  - https://github.com/hisoka-root/rsstoat
+
+- 👨‍💻 All projects:
+  - https://hisoka.lol
+
+- 📝 Articles & Blog:
+  - https://substack.com/@ilovehisoka
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/hisokaroot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" height="40" />
+  </a>
+</p>
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,css,html,js,ts,nodejs,php,postgres,sqlite,redis,linux,git,nginx,svelte,tailwind,grafana" />
+  </a>
+</p>
+
+## 💖 Support
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/hisoka.root)
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/hisokaroot)
+
+## 💰 Stablecoins & Cryptocurrency
+
+### 🌐 EVM Networks
+
+![Ethereum](https://img.shields.io/badge/Ethereum-ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-ETH-0052FF?style=for-the-badge&logo=base&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-ETH-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-ETH-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
+![USDC](https://img.shields.io/badge/USDC-ERC20-2775CA?style=for-the-badge&logo=usdcoin&logoColor=white)
+![USDT](https://img.shields.io/badge/USDT-ERC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)
+
+**Accepts:** ETH, USDC, and USDT
+
+`0xCf6B87C77573b7CADD5d83f43B94c5661ABf26Fb`
+
+### ☀️ Solana Network
+
+![Solana](https://img.shields.io/badge/Solana-SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![USDC](https://img.shields.io/badge/USDC-SPL-2775CA?style=for-the-badge&logo=usdcoin&logoColor=white)
+![USDT](https://img.shields.io/badge/USDT-SPL-26A17B?style=for-the-badge&logo=tether&logoColor=white)
+
+**Accepts:** SOL, USDC, and USDT
+
+`9mYqS72XHD5zoK1W7MnHEcyKd9X3qRxktFn9vWGApCM7`
+
+### 🟠 Bitcoin
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+`bc1q4uzx0ryhry4esvefs35vxt3jlch52gkwhfcpxj`
+
+### 🟧 Monero
+
+![Monero](https://img.shields.io/badge/Monero-XMR-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+
+`83jowAYNQrySHMTTrK7jxQRU88y1ZiMdUXxYJXnvDM4o114GqSRavGp3cSsL2Sz6HRPwrA3QP5h9LEJBfoRjnqALVrHNCnG`
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hisoka-root&show_icons=true&theme=tokyonight&hide_border=true" alt="hisoka-root" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hisoka-root&theme=tokyonight&hide_border=true" alt="hisoka-root" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisoka-root&layout=compact&theme=tokyonight&hide_border=true" alt="hisoka-root" />
+</p>
